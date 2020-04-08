@@ -1,0 +1,85 @@
+body {
+  background-color: #aeefec;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.home_page_title {
+  margin: 0 auto 0 auto;
+  height: 180px;
+  color: #005082;
+  line-height: 2.5;
+  font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+}
+
+.title_border {
+  border: 3px dashed #00bdaa;
+  width: 35%;
+}
+
+.tree {
+  position:relative;
+  display: inline;
+  top: 250px;
+  align-content: center;
+}
+
+.sun {
+  position: absolute;
+  right: 75px;
+  top: 10px;
+}
+
+.cartoon_cloud {
+  position: absolute;
+  left: 75px;
+  top: 10px;
+}
+
+.skills {
+  font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+  color: #005082;
+  font-size: 25px;
+}
+
+.backend {
+  font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+  color: #005082;
+  margin: 20px auto 70px;
+}
+
+.frontend {
+  font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+  color: #005082;
+  margin: 70px auto 70px;
+}
+
+.knitting {
+  font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+  color: #005082;
+  margin: 70px auto 70px;
+}
+
+.bottom {
+  background-color: #18b0b0;
+  height: 50px;
+  margin: 0;
+  width: 100%;
+}
+
+.github:hover {
+  color: white;
+}
+
+.linkedin:hover {
+  color: white;
+}
+
+.github {
+  text-decoration: none;
+}
+
+.linkedin {
+  text-decoration: none;
+}
