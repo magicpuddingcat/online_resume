@@ -11,6 +11,7 @@ body {
   color: #005082;
   line-height: 2.5;
   font-family: Lucida Console,Lucida Sans Typewriter,monospace;
+  width: 60%;
 }
 
 .title_border {
@@ -18,23 +19,18 @@ body {
   width: 35%;
 }
 
-.tree {
-  position:relative;
-  display: inline;
-  top: 250px;
-  align-content: center;
-}
-
 .sun {
   position: absolute;
   right: 75px;
   top: 10px;
+  width: 20%;
 }
 
 .cartoon_cloud {
   position: absolute;
   left: 75px;
   top: 10px;
+  width: 20%;
 }
 
 .skills {
