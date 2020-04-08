@@ -20,15 +20,15 @@ body {
 }
 
 .sun {
-  position: relative;
-  right: 75px;
+  position: absolute;
+  right: 30px;
   top: 10px;
   width: 20%;
 }
 
 .cartoon_cloud {
-  position: relative;
-  left: 75px;
+  position: absolute;
+  left: 30px;
   top: 10px;
   width: 20%;
 }
